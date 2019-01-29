@@ -3,7 +3,7 @@ Dynamic Joint Chain Rig Tool for Game (Maya Plug-in)
 This is a rig tool for create dynamic chain by nHair in maya, especially for dynamic tails, hair and etc. in game engine(Unreal).  
 Before using the script, you need to make true that your maya setup is OK for UE4.  
 Each dynamic joint chain is seperate and modular, and you can add it to the exsited rig system.  
-If you are not satisfied with the final sim result, you can bake the sim to the Ctrls for custom changes manully.
+If you are not satisfied with the sim result, you can bake the sim to the Ctrls and change them manully.
 
 # How to install:
 1. Download the project file and unzip it somewhere in the computer, make ture to remember the directory of the unzip file location;  
